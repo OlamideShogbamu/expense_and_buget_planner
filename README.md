@@ -1,16 +1,12 @@
-# kiyashi
+![Generic badge](https://img.shields.io/badge/CI/CD-Pipeline-green.svg)
 
-A new Flutter project.
+# Smart Expense and Budget Planner
 
+Kiyashi - A Flutter smart expense and budget planner app.
+
+- There are few currency rendering error in this app. This is because this part is being worked on.
+The app supports USD ($) which has been implemeted and working perfectly. How ever the currency feature is being worked so that users can select any currency of their choice the that will be adapted by the app globally.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For a quick play of this game, visit
+[Appetize](https://appetize.io/app/b_lpjpr2ukencnohqu34s2czycq4).
