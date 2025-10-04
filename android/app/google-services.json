@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286832259939",
+    "project_id": "kiyashi-2d779",
+    "storage_bucket": "kiyashi-2d779.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286832259939:android:583e1c0326fff2c6ee9956",
+        "android_client_info": {
+          "package_name": "com.example.kiyashi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286832259939-30posn843ol1m2scntbjd4077j6fn2tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx_bIvmhh7eeBLVwfcQvzvxy7swHZRhjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286832259939-30posn843ol1m2scntbjd4077j6fn2tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
